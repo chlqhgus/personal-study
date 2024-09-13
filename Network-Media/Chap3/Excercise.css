@@ -1,0 +1,26 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  line-height: 200%;
+}
+
+h1 {
+  padding-top: 1.5%;
+  color: rgb(57, 57, 57);
+  font-weight: bold;
+}
+
+h3 {
+  color: green;
+  font-style: italic;
+  text-decoration: underline;
+}
+
+li {
+  padding-left: 1.5%;
+  color: rgb(57, 57, 57);
+}
+
+span {
+  font-weight: bold;
+  color: black;
+}
